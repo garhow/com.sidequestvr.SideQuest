@@ -9,4 +9,6 @@ The Flatpak version of SideQuest runs in a sandbox enables a few restrictions to
 * **Android udev rules** - Due to the sandbox, this application can not provide the udev rules for connecting Android devices to your system. You must install these yourself. See https://github.com/flatpak/flatpak/issues/961 for more details.
 
 ## Legal
+SideQuest is open-source and is developed under the [MIT license](https://github.com/SideQuestVR/SideQuest/blob/master/LICENSE). [View the source code](https://github.com/SideQuestVR/SideQuest).
+
 This wrapper is not verified by, affiliated with, or supported by SideQuest.
